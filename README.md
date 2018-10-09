@@ -13,5 +13,13 @@ Cims contains 7 modules
   6. Student (Each student of each center has different accounts)
   7. Parents (Each Parent have different account)
   
-Each Admin,hod's,mentor,teacher,student,parents have their own unique id which is provided by admin of center who register/add the student and verify their details
+Each Admin,hod's,mentor,teacher,student,parents have their own unique id which is provided by admin of center who register/add the student and verify their details.
+
+Each cims member of Coaching has their own functionality in cims.
+
+By using cims parents can easily check their report and progress.
+Cims include various many features like parents can make complaint to admin,teacher,hod and mentor which help parents to take care of his ward
+
+Cims maintains an hierarchy for performing tasks. Which make it best and light weight in terms of task and server load.
+
 
